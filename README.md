@@ -1,3 +1,6 @@
+# ABOUT THIS FORK
+Archive of the original. Untouched. For legacy purposes.
+
 # The Era to End All Eras
 November 20th 2020. I made the decision to put Phoenix 5.x in beta testing.
 I started to work on it on November 21st and it was made public the day after.
